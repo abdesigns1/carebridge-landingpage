@@ -336,9 +336,14 @@ const AIHealthLandingPage = () => {
             >
               About
             </a>
-            <button className="bg-blue-600 text-white px-8 py-3 rounded-lg text-xl">
+            <a
+              href="https://carebridge-app.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-blue-600 text-white px-8 py-3 rounded-lg text-xl"
+            >
               Sign In
-            </button>
+            </a>
           </div>
         </div>
       )}
